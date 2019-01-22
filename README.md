@@ -7,3 +7,14 @@ Inicialmente será possível fazer consulta de `CPF's` e  `CNPJ's` nas bases fed
 Este pacote não é oficial, mas visa facilitar as consultas de `CPF` e `CNPJ` para os desenvolvedores brasileiros.
 
 Sinta-se a vontade para ajudar abrindo `issues` e `pull requests` com melhorias e sugestões.
+
+---
+
+Você precisará configurar os dados básicos de conexão.
+
+```python
+{
+    "consumer_key": "JT8.....c6a",
+    "consumer_secret": "MOy...K1r"
+}
+```
