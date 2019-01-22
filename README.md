@@ -8,6 +8,9 @@ Este pacote não é oficial, mas visa facilitar as consultas de `CPF` e `CNPJ` p
 
 Sinta-se a vontade para ajudar abrindo `issues` e `pull requests` com melhorias e sugestões.
 
+
+Link para documentação https://schubert.gitbook.io/serpro/
+
 ---
 
 Você precisará configurar os dados básicos de conexão.
