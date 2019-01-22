@@ -25,12 +25,12 @@ Você precisará configurar os dados básicos de conexão.
 
 Este pacote usa um validador de `CPF` e `CNPJ` a fim de evitar mandar para consulta na `SERPRO` qualquer dado inválido, evitando pagamento de valores desnecessários.
 
-> {% code-tabs %}
-> {% code-tabs-item title="requirements.txt" %}
-> ```text
-> requests==2.19.1
-> pycpfcnpj==1.5
-> ```
-> {% endcode-tabs-item %}
-> {% endcode-tabs %}
+{% code-tabs %}
+{% code-tabs-item title="requirements.txt" %}
+```text
+requests==2.19.1
+pycpfcnpj==1.5
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
