@@ -18,3 +18,13 @@ Você precisará configurar os dados básicos de conexão.
     "consumer_secret": "MOy...K1r"
 }
 ```
+
+---
+## Dependências
+
+Este pacote usa um validador de `CPF` e `CNPJ` a fim de evitar mandar para consulta na `SERPRO` qualquer dado inválido, evitando pagamento de valores desnecessários.
+
+```txt
+requests==2.19.1
+pycpfcnpj==1.5
+```

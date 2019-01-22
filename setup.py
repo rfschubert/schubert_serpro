@@ -9,5 +9,9 @@ setup(
     author_email='rfswdp@gmail.com',
     license='MIT',
     packages=['schubert_serpro'],
+    keywords=['python serpro', 'python3', 'serpro', 'schubert'],
+    install_requires=[
+        'requests', 'pycpfcnpj'
+    ],
     zip_safe=False
 )
