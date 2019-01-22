@@ -1,2 +1,9 @@
-# serpro
-Integração para consultas no servidor da SERPRO Brasil
+# SERPRO
+
+Integração para consultas no servidor da `SERPRO` Brasil
+
+Inicialmente será possível fazer consulta de `CPF's` e  `CNPJ's` nas bases federais. As consultasa base da `SERPRO` são pagas e você precisará comprar uma licença mensal para consulta.
+
+Este pacote não é oficial, mas visa facilitar as consultas de `CPF` e `CNPJ` para os desenvolvedores brasileiros.
+
+Sinta-se a vontade para ajudar abrindo `issues` e `pull requests` com melhorias e sugestões.
