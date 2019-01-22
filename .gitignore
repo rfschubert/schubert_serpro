@@ -81,6 +81,8 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+.idea
+
 ### venv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
